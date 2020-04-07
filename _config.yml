@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 286402940@qq.com
 description: "Every failure is leading towards success."
 keyword: " wqq, binder，android,linux"
-url: "http://wqq.github.io"          # your host, for absolute URL
+url: "http://sbbqq.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/sbbqq/wqq.github.io.git" # you code repository
+github_repo: "https://github.com/sbbqq/sbbqq.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -57,14 +57,14 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: wqq
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: wqq.github.io    #仓库名称
+  repo: sbbqq.github.io    #仓库名称
   owner: sbbqq    #github用户名
   admin: sbbqq
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
